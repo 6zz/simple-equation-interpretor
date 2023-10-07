@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/simple-equation-interpretor/static/css/main.073c9b0a.css",
-    "main.js": "/simple-equation-interpretor/static/js/main.21c5bd1c.js",
+    "main.css": "/simple-equation-interpretor/static/css/main.d3275e0d.css",
+    "main.js": "/simple-equation-interpretor/static/js/main.0a3dcfdc.js",
     "static/js/787.57f55bfd.chunk.js": "/simple-equation-interpretor/static/js/787.57f55bfd.chunk.js",
-    "static/media/logo.svg": "/simple-equation-interpretor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/simple-equation-interpretor/index.html",
-    "main.073c9b0a.css.map": "/simple-equation-interpretor/static/css/main.073c9b0a.css.map",
-    "main.21c5bd1c.js.map": "/simple-equation-interpretor/static/js/main.21c5bd1c.js.map",
+    "main.d3275e0d.css.map": "/simple-equation-interpretor/static/css/main.d3275e0d.css.map",
+    "main.0a3dcfdc.js.map": "/simple-equation-interpretor/static/js/main.0a3dcfdc.js.map",
     "787.57f55bfd.chunk.js.map": "/simple-equation-interpretor/static/js/787.57f55bfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.21c5bd1c.js"
+    "static/css/main.d3275e0d.css",
+    "static/js/main.0a3dcfdc.js"
   ]
 }
