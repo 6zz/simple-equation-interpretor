@@ -1,0 +1,39 @@
+$darkerGray: rgb(87, 75, 75);
+
+.prompt {
+    position: relative;
+    font-size: 2em;
+    color: white;
+}
+
+.field {
+    background-color: transparent;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px 2em 10px 10px;
+    color: inherit;
+    font-size: inherit;
+
+    &::placeholder {
+        color: $darkerGray;
+    }
+}
+
+.clear {
+    background-color: $darkerGray;
+    width: 1.2em;
+    height: 1.2em;
+    border-radius: 50%;
+    border: 2px solid gray;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: inherit;
+    font-size: inherit;
+
+    &:hover {
+        cursor: pointer;
+        background-color: black;
+    }
+}
